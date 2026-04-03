@@ -1,0 +1,15 @@
+build/
+bin/
+obj/
+
+.vscode/
+.clangd/
+compile_commands.json
+
+*.swp
+*~
+.DS_Store
+
+warehouse
+*.exe
+*.out
